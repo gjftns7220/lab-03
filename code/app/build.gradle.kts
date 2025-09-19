@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.listycitylab3"
-    compileSdk = 35
+    namespace = "com.example.newsomething"
+    compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.listycitylab3"
+        applicationId = "com.example.newsomething"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
